@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-I'm Taylor. I like JavaScript and SQL. I love ramen, sushi, and hot wings.
+It's me, Taylor. I like JavaScript and SQL. I love ramen, sushi, and hot wings.
